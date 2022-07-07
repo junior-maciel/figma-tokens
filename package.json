@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/teste-maciel.figma-tokens-l5azj66y",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 2URrD2H4MukmqRDrcJNT --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
